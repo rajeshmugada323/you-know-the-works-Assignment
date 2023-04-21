@@ -1,0 +1,157 @@
+.bg-container {
+    background-color: #fc7f9c;
+    background-size: cover;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+
+
+.img-container {
+    width: 20%;
+    text-align: center;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    font-size: 70px;
+    color: #00004d;
+    margin-bottom: 10px;
+   
+    
+
+}
+
+.sub-heading {
+    margin-top: 5px;
+    text-align: center;
+    color: #00004d;
+    font-family: "Roboto";
+}
+
+.main-heading {
+    color: #00004d;
+    font-family: "Roboto";
+}
+
+.left-section {
+    width: 80%;
+    display: flex;
+    border-bottom: 3px solid #00004d;
+    padding-left: 20px;
+}
+
+.heading-con {
+    width: 50%;
+    padding: 10px 20px 20px 20px;
+    border-right: 3px solid #00004d;
+
+}
+
+.items-list {
+    padding-left: 10px;
+}
+
+.items-list p {
+    line-height: 25px;
+}
+
+.address {
+    padding: 5px;
+    color: #00004d;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.sub-work-section {
+    border-bottom: 3px solid #00004d;
+    padding-left: 20px;
+}
+
+.sub-work-section p {
+    margin-right: 50px;
+}
+
+.sub-left-section {
+    display: flex;
+    align-items: center;
+}
+
+.work-section {
+    width: 100%;
+
+}
+
+.skills-awards {
+    display: flex;
+    align-items: center;
+
+}
+
+.skills-awards p {
+    margin-right: 50px;
+
+}
+
+.dots {
+    width: 15px;
+    height: 15px;
+    background-color: #00004d;
+    border-radius: 60%;
+    display: inline-block;
+    margin: 5px;
+    align-items: center;
+}
+
+.skills-awards-section {
+    border-right: 3px solid #00004d;
+    border-bottom: 3px solid #00004d;
+}
+
+.skill-left-section {
+    padding: 50px;
+
+}
+
+.year {
+    margin: 60px;
+}
+
+.icons-card {
+
+    width: 100%;
+    display: flex;
+    border-bottom: 3px solid #00004d;
+}
+
+.icons-con {
+    width: 45px;
+    height: 45px;
+    border-radius: 40px;
+    background-color: #00004d;
+    padding-top: 14px;
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+
+.icons-logo {
+    font-size: 40px;
+    color: #fc7f9c;
+    padding: 10px 5px 10px 10px;
+}
+
+.icons-container {
+    margin-right: 60px;
+    margin-left: 40px;
+}
